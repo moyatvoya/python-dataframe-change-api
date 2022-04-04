@@ -1,1 +1,4 @@
-Requests:\nPOST\nPUT\nDELETE
+Requests:
+POST
+PUT
+DELETE
